@@ -11,6 +11,7 @@ public class loginController {
 
     @RequestMapping("login")
     public void loginSystem(){
+
         System.out.println("this is a curret controller");
     }
 }
