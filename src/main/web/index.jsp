@@ -11,7 +11,7 @@
     <title>这是一个首页</title>
 </head>
 <body>
-   欢迎光临
+   欢迎光临---1
 <form method="post" action="login.do">
     <input type="submit" value="登录">
 </form>
